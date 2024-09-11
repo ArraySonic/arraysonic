@@ -8,7 +8,7 @@
 
 - 🔭 I am Not **Programmer**
 
-- 👨‍💻 My Profolio Is Available At [https://www.forlann.live](https://www.forlann.live)
+- 👨‍💻 My Profolio Is Available At [https://forlann.live](https://forlann.live)
 
 - 💬 Ask me about **Website Front End, Bot WhatsApp**
 
